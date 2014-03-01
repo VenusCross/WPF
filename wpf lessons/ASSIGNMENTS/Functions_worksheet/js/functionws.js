@@ -1,3 +1,6 @@
+//Venus Cross -  March 1 2014 -Function Worksheet 
+
+
 // Calculate the circumference of a circle
 
 var  total = circumCircle()
