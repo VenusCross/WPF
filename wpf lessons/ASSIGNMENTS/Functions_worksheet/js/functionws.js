@@ -1,4 +1,6 @@
 // Calculate the circumference of a circle
+
+var  total = circumCircle()
 function circumCircle(radius){
 	var radius=5;
 	var circle = 2*3.14*(radius);
@@ -19,3 +21,4 @@ function beeStings(){ // function to define
 	
 }	
 console.log(total);
+console.log("It takes "+ total +" bee stings to kill this animal.")
