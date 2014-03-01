@@ -10,10 +10,10 @@ circumCircle();
 	
 	
 // Stung!
-
-var total = beeStings()
-function beeStings(){
-	var victimWeight = 100; // 
+ 
+var total = beeStings() 
+function beeStings(){ // function to define
+	var victimWeight = 100; // weight of victim
 	var numberOfBeeStings= victimWeight / 8.666666667 //victims weight divided by number of beestings per lb.
 	return numberOfBeeStings;
 	
