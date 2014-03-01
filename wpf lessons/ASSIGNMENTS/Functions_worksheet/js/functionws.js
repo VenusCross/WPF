@@ -13,8 +13,8 @@ circumCircle();
 
 var total = beeStings()
 function beeStings(){
-	var victimWeight = 100;
-	var numberOfBeeStings= victimWeight / 8.666666667 
+	var victimWeight = 100; // 
+	var numberOfBeeStings= victimWeight / 8.666666667 //victims weight divided by number of beestings per lb.
 	return numberOfBeeStings;
 	
 }	
