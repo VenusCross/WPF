@@ -14,7 +14,7 @@ circumCircle();
 var total = beeStings()
 function beeStings(){
 	var victimWeight = 100;
-	var numberOfBeeStings=8.666666667 * victimWeight
+	var numberOfBeeStings= victimWeight / 8.666666667 
 	return numberOfBeeStings;
 	
 }	
