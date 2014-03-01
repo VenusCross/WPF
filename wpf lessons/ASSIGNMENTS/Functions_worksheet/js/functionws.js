@@ -1,7 +1,8 @@
-// Calculat the circumference if a circle
-function CircumCircle(radius){
-	var circumference;
-	circumference = 2*3.14*(5);
-	return circumference;
-	console.log("The circumference of the circle is X");
+// Calculate the circumference if a circle
+function circumCircle(radius){
+	var radius=5;
+	var circle = 2*3.14*(radius);
+	return circumCircle;
 }
+	console.log("The circumference of the circle is X");
+
