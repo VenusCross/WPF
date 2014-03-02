@@ -10,4 +10,4 @@
 var kindergartenStudents = 44 // number of students in class
 var krispyKremeDonuts = 111 // number of donuts donated to kindergarten class
 var numberOfDonutsToEach = krispyKremeDonuts % kindergartenStudents // formula to get answer for problem
-console.log(numberOfDonutsToEach)
+console.log(numberOfDonutsToEach)// this will print the answer to the console for formula given
