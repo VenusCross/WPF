@@ -4,7 +4,7 @@ Date()
 
 
 
-/*//Weightloss Fatburner pills ... How many capsules in a year where taken 2013? There are 30pills in one bottle. 
+/*//Weightloss Fatburner pills ...  There are 30pills in one bottle. 
 A half of pill is taken daily. There are 365 days in a year.  How many pills have been taken from January 1, 2013 to today date?*/
 // Part II: How many pills left in bottle for  a month?
 
