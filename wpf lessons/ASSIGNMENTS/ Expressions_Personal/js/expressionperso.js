@@ -10,8 +10,8 @@ A half of pill is taken daily. There are 365 days in a year.  How many pills hav
 
 var bottle = 30 // number of capsules a bottle
 var prescribed = .5 // amount prescribed 
-var daysInYear = 365
-var total = prescribed * dayInYear
+var daysInYear = 365 // number of days in a year
+var total = prescribed * dayInYear 
 var totalHalfmonth = bottle / prescribed
 
 console.log
