@@ -9,7 +9,7 @@ A half of pill is taken daily. There are 365 days in a year.  How many pills hav
 // Part II: How many pill 1/2 pills left in bottle for  a month.
 
 var bottle = 30 // number of capsules a bottle
-var prescribed = .5
+var prescribed = .5 // amount prescribed 
 var daysInYear = 365
 var total = prescribed * dayInYear
 var totalHalfmonth = bottle / prescribed
