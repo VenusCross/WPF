@@ -8,7 +8,7 @@ Date()
 A half of pill is taken daily. There are 365 days in a year.  How many pills have been taken from January 1, 2013 to today date?*/
 // Part II: How many pill 1/2 pills left in bottle for  a month.
 
-var bottle = 30
+var bottle = 30 // number of capsules a bottle
 var prescribed = .5
 var daysInYear = 365
 var total = prescribed * dayInYear
