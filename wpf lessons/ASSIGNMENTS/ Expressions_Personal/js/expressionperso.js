@@ -14,4 +14,7 @@ var daysInYear = 365 // number of days in a year
 var total = prescribed * daysInYear // calculations for answer 
 var totalHalfmonth = bottle / prescribed
 var daysInMonth = 30
+var yearfourteen = daysInMonth * 2
+var totalNow= daysInYear + 2 + totalHalfMonth
 console.log(total)
+console.log (totalHalfmonth)
