@@ -1,6 +1,6 @@
 // Venus Cross 3/1/2014 Expression Personal Assignment
 
-Date()
+
 
 
 
