@@ -7,8 +7,8 @@
 // Krispy Kreme Donuts donates donuts to the kindergarten class at Bellview School.
 // How many donuts will each child get.
 
-var kindergartenStudents = 44 // number of students in class
-var krispyKremeDonuts = 111 // number of donuts donated to kindergarten class
+var kindergartenStudents = 14 // number of students in class
+var krispyKremeDonuts = 20 // number of donuts donated to kindergarten class
 var numberOfDonutsToEach = krispyKremeDonuts % kindergartenStudents // formula to get answer for problem
 console.log(numberOfDonutsToEach)// this will print the answer to the console for formula given
 // trying the modulo (remainder) operator 
