@@ -1,8 +1,8 @@
 //Venus Cross Expression Industry Assigment March 2, 2014
 
- // I work at a hospital people are weighed in kilograms let's convert their weight to pounds
+ // I work at a hospital people are weighed by kilograms let's convert their weight to pounds
  
- // Problem: Convert 179 kg to pounds
+ // Problem: Convert 179 kg to pounds 
  
  
  var oneKg = 2.21 // one kilogram equals 2.21 lbs
