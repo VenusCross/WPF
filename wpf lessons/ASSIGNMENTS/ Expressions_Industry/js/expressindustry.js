@@ -6,7 +6,7 @@
  
  
  var oneKg = 2.21 // one kilogram equals 2.21 lbs
- var ptWeightInKg = 179
+ var ptWeightInKg = 179 // patient weight in kilograms
  var pounds = oneKg * ptWeightInKg
  var total = pounds
  console.log("The patient weighs +"pounds"+"lbs".")
