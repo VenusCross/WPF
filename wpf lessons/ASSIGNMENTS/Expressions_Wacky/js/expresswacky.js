@@ -6,4 +6,4 @@
 
 // Krispy Kreme Donuts donates donuts to the kindergarten class at Bellview School.
 
-var kindergartenStudents = 100 
+var kindergartenStudents = 100 // number of students in class
