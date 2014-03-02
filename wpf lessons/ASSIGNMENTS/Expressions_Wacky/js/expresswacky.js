@@ -10,3 +10,4 @@
 var kindergartenStudents = 44 // number of students in class
 var krispyKremeDonuts =111 // number of donuts donated to kindergarten class
 var numberOfDonutsToEach = krispyKremeDonuts % kindergartenStudents
+console.log(numberOfDonutsToEach)
