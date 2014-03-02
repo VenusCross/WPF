@@ -5,7 +5,7 @@
 
 
 // Krispy Kreme Donuts donates donuts to the kindergarten class at Bellview School.
-// How many donuts will each child get.
+// What is the remainder of donuts?
 
 var kindergartenStudents = 14 // number of students in class
 var krispyKremeDonuts = 20 // number of donuts donated to kindergarten class
