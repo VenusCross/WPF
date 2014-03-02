@@ -5,7 +5,7 @@
  // Problem: Convert 179 kg to pounds
  
  
- var oneKg = 2.21 
+ var oneKg = 2.21 // one kilogram equals 2.21 lbs
  var ptWeightInKg = 179
  var pounds = oneKg * ptWeightInKg
  var total = pounds
