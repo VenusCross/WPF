@@ -1,5 +1,5 @@
 //Venus Cross February 22, 2014...due date February 13,2014..Assignment Expression Worksheet
-
+// this worksheet was done before Crystal Silvestro help 
 //Dog Years
 
 var sparkyAge=7;
@@ -65,11 +65,10 @@ if(iPhonePrice < budget && paycheck > 300){
 }	
 	
 // Conditional Logic Ternary Operators
+if(condition){
+	do if true
 
-if (condition){
-	do if true;
-
-}else{do if false;
+}else{do if false
 	
 }
 
