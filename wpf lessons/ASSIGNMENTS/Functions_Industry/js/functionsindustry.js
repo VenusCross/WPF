@@ -2,5 +2,9 @@
 
 
 function injections(x){
-	alert("men have to get injections too")
+	alert("men have to get injections too such as" + "\n" + x);
 }
+
+injections("calcium injections");
+injections("testosterone");
+injections("flu");
