@@ -4,14 +4,14 @@
 
 var fluAge = prompt("Enter your Age","");
 var fluShotAge = true; // boolean true or false
-if (fluShotAge && fluShotAge=="")// this is suppose to be validator
-{alert("Please enter your age")// pop alert for flu patient to enter age
+//if (fluShotAge && fluShotAge=="")// this is suppose to be validator
+//{alert("Please enter your age")// pop alert for flu patient to enter age
 	
-}
+
 if (fluShotAge && fluShotAge ==2)
-{ alert("Parent get your child the flu shot NOW your baby is at RISK ");
+{ alert("Parent get your child the flu shot NOW your baby is at RISK ");//pop up 
 } if(fluAge >=50){
-	alert("Call your Doctor make an Appointment now flu shot You are at RISK!");
+	alert("Call your Doctor make an Appointment now flu shot You are at RISK!");// pop up alert
 }else
 	if(fluAge <=49){ 
 	alert("you may or may not need injection");
