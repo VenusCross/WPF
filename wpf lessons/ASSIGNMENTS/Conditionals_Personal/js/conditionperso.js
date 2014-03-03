@@ -3,4 +3,5 @@
 // Income promotions
 
 
-var userIncome = prompt("What is your income?","");
+var userIncome = prompt("What is your income?","");// asking user to input income
+var moneymaker = true; 
