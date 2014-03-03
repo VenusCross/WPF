@@ -9,10 +9,10 @@ var moneyMaker = true; // Boolean - True/False
 if (moneyMaker && userIncome >= 75000){ // used && compound
 	alert("You need to relax and get Bonus check for good work!")// want this to pop up on screen
 	
-}else if (userIncome < 750000)
- console.log ("You need to go to school for Training")	
-}else{ if (userIncome < 80000)
-	console.log("Please be grateful for your job")
+}else{ if(userIncome < 750000)
+ 	alert("You need to go to school for Training")}	
+ 	{ if(userIncome < 80000)
+	alert"Please be grateful for your job")
 }
 
 	
