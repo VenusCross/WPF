@@ -16,4 +16,9 @@ if (fluShotAge && fluShotAge ==2)
 	if(fluAge <=49){ 
 	alert("you may or may not need injection");
 }
-var statusPt = prompt("enter status")
+var statusPt = prompt("enter status well or sick");
+if (statusPt == well){
+	alert("you may get injection");
+	
+	
+}
