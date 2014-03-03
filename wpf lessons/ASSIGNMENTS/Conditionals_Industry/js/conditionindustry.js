@@ -22,3 +22,4 @@ if (statusPt = well){
 	
 	
 }
+// need help in developing the rest
