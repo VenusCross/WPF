@@ -4,7 +4,10 @@
 
 var fluAge = prompt("Enter your Age","");
 var fluShotAge = true; // boolean true or false
-
-if (fluShotAge && fluShotAge <=0)
-{ alert("Please enter your age");
+if (fluShotAge && fluShotAge=="")
+{alert("Please enter your age")
+	
+}
+if (fluShotAge && fluShotAge <=4)
+{ alert("Parent get your child the flu shot NOW");
 }
