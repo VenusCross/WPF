@@ -5,7 +5,7 @@
 var fluAge = prompt("Enter your Age","");
 var fluShotAge = true; // boolean true or false
 if (fluShotAge && fluShotAge=="")// this is suppose to be validator
-{alert("Please enter your age")
+{alert("Please enter your age")// pop alert for flu patient to enter age
 	
 }
 if (fluShotAge && fluShotAge <=4)
