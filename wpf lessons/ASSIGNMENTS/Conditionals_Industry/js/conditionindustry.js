@@ -6,4 +6,5 @@ var fluAge = prompt("Enter your Age","");
 var fluShotAge = true; // boolean true or false
 
 if (fluShotAge && fluShotAge == 0)
-{ alert("Please enter your age"}
+{ alert("Please enter your age")
+}
