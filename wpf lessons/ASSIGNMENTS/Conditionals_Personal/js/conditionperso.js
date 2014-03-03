@@ -4,4 +4,4 @@
 
 
 var userIncome = prompt("What is your income?","");// asking user to input income
-var moneymaker = true; 
+var moneymaker = true; // Boolean - True/False
