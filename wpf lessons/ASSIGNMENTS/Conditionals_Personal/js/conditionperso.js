@@ -14,6 +14,8 @@ if (moneyMaker && userIncome >= 75000){ // used && compound
  	{ if(userIncome < 80000)
 	alert("Please be grateful for your job");// another pop up to screen
 	console.log("Please be Happy!")
+}else{ if(userIncome < 150000)
+	alert("Ask to be CEO!!!!")
 }
 
 	
