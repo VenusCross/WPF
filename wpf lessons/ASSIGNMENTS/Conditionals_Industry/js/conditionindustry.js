@@ -13,6 +13,6 @@ if (fluShotAge && fluShotAge <=4)
 } if(fluAge >=50){
 	alert("Call your Doctor make an Appointment now flu shot You are at RISK!");
 }else
-	if(fluAge 4 =< 49){ 
+	if(fluAge =< 49){ 
 	alert("you may or may not need injection");
 }
