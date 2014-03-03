@@ -9,7 +9,7 @@ var fluShotAge = true; // boolean true or false
 	
 
 if (fluShotAge && fluShotAge ==2)
-{ alert("Parent get your child the flu shot NOW your baby is at RISK ");//pop up 
+{ alert("Parents please get your child the flu shot NOW your baby is at RISK ");//pop up 
 } if(fluAge >=50){
 	alert("Call your Doctor make an Appointment now flu shot You are at RISK!");// pop up alert
 }else
@@ -17,7 +17,7 @@ if (fluShotAge && fluShotAge ==2)
 	alert("you may or may not need injection");
 }
 var statusPt = prompt("enter status well or sick");
-if (statusPt = well ){
+if (statusPt = well){
 	alert("you may get injection");
 	
 	
