@@ -4,7 +4,7 @@
 
 var fluAge = prompt("Enter your Age","");
 var fluShotAge = true; // boolean true or false
-if (fluShotAge && fluShotAge=="")
+if (fluShotAge && fluShotAge=="")// this is suppose to be validator
 {alert("Please enter your age")
 	
 }
