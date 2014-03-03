@@ -13,6 +13,7 @@ if (moneyMaker && userIncome >= 75000){ // used && compound
  	alert("You need to go to school for Training");}// pop up on screen 	
  	{ if(userIncome < 80000)
 	alert("Please be grateful for your job");// another pop up to screen
+	console.log("Please be Happy!")
 }
 
 	
