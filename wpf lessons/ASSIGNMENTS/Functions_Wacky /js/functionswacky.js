@@ -1,8 +1,13 @@
-// Venus Cross March 2, 2014 Functions Wack Assignment
+// Venus Cross March 2, 2014 Functions Wacky Assignment
 
 
 // Ice Cream Flavors for fun!!
 
-function iceCream(strawberry){
-	alert("Let's Eat Ice Cream");
+
+
+
+
+function test(){
+	alert("Hello Venus");
+
 }
