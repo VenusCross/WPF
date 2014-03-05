@@ -7,7 +7,8 @@
 
 
 
-function test(){
-	alert("Hello Venus");
+function iceCream(strawberry){
+	alert("Pick your Flavor!!!");
 
 }
+iceCream()()
