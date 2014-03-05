@@ -5,10 +5,12 @@
 
 
 
+var creamConsumer = prompt("What is favorite ice creaam flavor strawberry, peach, rainbow, chocolate?","");
 
-
-function iceCream(strawberry){
-	alert("Pick your Flavor!!!");
+function iceCream(one,two){
+	alert("Pick a NEW Flavor!!!");
+	alert("These flavor taste delicious together" + "\n" + x);
 
 }
-iceCream()()
+iceCream("strawberry","chocolate");//
+iceCream("peach","rainbow");
