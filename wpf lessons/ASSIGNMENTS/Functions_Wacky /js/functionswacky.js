@@ -4,5 +4,5 @@
 // Ice Cream Flavors for fun!!
 
 function iceCream (strawberry){
-	
+	console.log("Let's Eat Ice Cream")
 }
