@@ -3,6 +3,6 @@
 
 // Ice Cream Flavors for fun!!
 
-function iceCream (strawberry){
-	console.log("Let's Eat Ice Cream")
+function iceCream(strawberry){
+	alert("Let's Eat Ice Cream");
 }
