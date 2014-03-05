@@ -9,7 +9,7 @@ var creamConsumer = prompt("What is favorite ice creaam flavor strawberry, peach
 
 function iceCream(one,two){
 	alert("Pick a NEW Flavor!!!");
-	alert("These flavor taste delicious together" "\n"+ one +"\n"+ two);// combos
+	alert("These flavor taste delicious together"+ "\n"+ one +"\n"+ two);// combos
 
 }
 iceCream("strawberry","chocolate");//testing code combos
